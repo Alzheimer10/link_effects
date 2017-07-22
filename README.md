@@ -5,4 +5,4 @@
 <h1>link Effects</h1>
 Efectos para links usando solo css.
 Esta basado en el codigo de tympanus.net
-*  Click Aquí para el post [original](https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-17)
+*  Click Aquí para el post [<a href="https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-17">ORIGINAL</a>]

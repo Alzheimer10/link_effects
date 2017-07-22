@@ -1,6 +1,7 @@
 
 
 ![CSS3](http://c1.staticflickr.com/5/4299/35961351031_486016a597_b.jpg){:height="700px" width="400px"}
+<img src="http://c1.staticflickr.com/5/4299/35961351031_486016a597_b.jpg" width="48">
 ### link_effects
 Efectos para links usando solo css.
 Esta basado en el codigo de tympanus.net
